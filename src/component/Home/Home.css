@@ -30,3 +30,34 @@
     background-color: orange;
     transition: .5s;
 }
+#cus{
+    text-align: center;
+}
+.home{
+    margin-bottom: 30px;
+}
+.more a{
+    text-decoration: none;
+  
+
+}
+.more{
+    text-align: center;
+    margin-top: 20px;
+   
+   
+   
+}
+#btn3{
+    border: none;
+    background-color: magenta;
+    padding: 10px;
+    width: 30%;
+    border-radius: 10px;
+    transition: .5s;
+}
+#btn3:hover{
+    background-color: coral;
+    transition: .5s;
+}
+

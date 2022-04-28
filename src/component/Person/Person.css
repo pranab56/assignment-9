@@ -7,9 +7,10 @@
 .person{
     box-shadow: 10px 10px 40px gray;
     width: 90%;
-    height: 250px;
+    height:300px;
     margin-top: 30px;
     border-radius: 10px;
+    margin-left: 20px;
     
 }
 .text{
@@ -21,4 +22,17 @@
    margin-left: 5px;
    margin-right: 5px;
     text-align: justify;
+}
+.icon{
+    width: 20px;
+}
+.icon{
+    width: 110px;
+    display: flex;
+    color: coral;
+    margin-left: 10px;
+}
+.rating{
+    display: flex;
+    align-items: center;
 }

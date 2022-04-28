@@ -1,0 +1,14 @@
+.AboutImg{
+    width: 200px;
+    border-radius: 50%;
+    
+}
+.about{
+    text-align: center;
+    margin-top: 30px;
+    
+};
+.text2{
+    border: 2px solid goldenrod;
+    
+}
