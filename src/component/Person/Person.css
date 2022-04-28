@@ -1,0 +1,23 @@
+.personImg {
+  width: 50px;
+  border-radius: 50%;
+  margin-top: 20px;
+  
+}
+.person{
+    box-shadow: 10px 10px 40px gray;
+    width: 90%;
+    height: 250px;
+    margin-top: 30px;
+    border-radius: 10px;
+    
+}
+.text{
+    text-align: center;
+    
+}
+.description{
+   margin-left: 5px;
+   margin-right: 5px;
+    text-align: justify;
+}

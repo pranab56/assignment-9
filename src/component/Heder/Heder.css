@@ -1,0 +1,9 @@
+.heder a{
+text-decoration: none;
+padding-right: 15px;
+font-size: 20px;
+}
+.heder{
+    display: flex;
+    justify-content: center;
+}
