@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <nav className='home-container'>
           <div className='home-text'>
-        <span className='text'>
+        <span className='text1'>
         <h1>Luxary Red Car</h1>
         <h2>From Dubai</h2>
         </span>
